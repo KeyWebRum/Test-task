@@ -71,7 +71,7 @@
 
 
 
-<img width="2130" height="395" alt="Тестовое задание (1)" src="https://github.com/user-attachments/assets/73ca947b-2e04-40bd-a06a-780047c057cc" />
+<img width="1332" height="478" alt="Спринт" src="https://github.com/user-attachments/assets/8d97da8a-d35c-4be3-89d2-0bc5c87aa7e5" />
 
 
 
